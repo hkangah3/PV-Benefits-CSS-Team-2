@@ -1,4 +1,4 @@
-<h2>Project Pages</h2>
+<h2>Roles and Responsibilities</h2>
 
 <div align="center">
 
