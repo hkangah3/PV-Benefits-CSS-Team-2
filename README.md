@@ -4,7 +4,7 @@
 
 | Page | Author | File | Status |
 |:--|:--|:--|:--|
-| Homepage | Kiera H. | <a href="./index.html">index_g2.html</a> | === |
+| Homepage | Kiera H. | <a href="./index.html">index.html</a> | === |
 | Physical Wellness & Benefits | Nathan A. | <a href="./pv_webpageDRAFT.html">phys_wellness_g2.html</a> | === |
 | Academic Benefits | Jadarius W. | <a href="./academicbenefits.html">academicbenefits_g2.html</a> | === |
 | About Us | Bryce S. | <a href="./aboutme.html">about_g2.html</a> | === |
